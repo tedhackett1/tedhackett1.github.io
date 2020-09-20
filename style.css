@@ -19,3 +19,7 @@ transition: 0.8s;
 }
 btn1,{
   color: #FFA07A; 
+  {
+    .btn1:hover{
+      color:#xxx;
+    }
