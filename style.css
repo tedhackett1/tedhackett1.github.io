@@ -16,6 +16,8 @@ color:#FFA07A
 transition: 0.8s;
 position: relative;
 overflow: hidden;
+display:inline-block;
+margin: 20px;
 
 }
 
