@@ -21,7 +21,7 @@ margin: 10px;
 btn,{
   color: #FFA07A; 
   {
-    .btn1:hover{
+    .btn:hover{
       color:#fff;
     }
 .btn::before{
