@@ -21,6 +21,7 @@ overflow: hidden;
 
     .btn:hover{
       color:#fff;
+      transition: 0.8s;
     }
 .btn::before{
   content: "";
