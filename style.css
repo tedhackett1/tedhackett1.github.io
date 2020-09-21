@@ -13,6 +13,9 @@ font-size: 20px;
 font-family: "impact";
 cursor: pointer;
 color:#FFA07A
+transition: 0.8s;
+position: relative;
+overflow: hidden;
 
 }
 
