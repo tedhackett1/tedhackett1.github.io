@@ -17,7 +17,7 @@ transition: 0.8s;
   position: relative;
   overflow: hidden;
 }
-btn1,{
+btn,{
   color: #FFA07A; 
   {
     .btn1:hover{
@@ -34,10 +34,10 @@ btn1,{
   transition: 0.8s;
     }
     
-    .btn1::before{
+    .btn::before{
       top: 0;
       border-radius: 0 0 50% 50%;
       
-  .btn1:hover::before{
+  .btn:hover::before{
     height:180%;
       }
